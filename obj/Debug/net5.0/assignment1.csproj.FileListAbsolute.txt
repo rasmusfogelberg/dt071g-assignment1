@@ -1,0 +1,16 @@
+/home/rafo/dev/dt071g/assignment1/bin/Debug/net5.0/assignment1
+/home/rafo/dev/dt071g/assignment1/bin/Debug/net5.0/assignment1.deps.json
+/home/rafo/dev/dt071g/assignment1/bin/Debug/net5.0/assignment1.runtimeconfig.json
+/home/rafo/dev/dt071g/assignment1/bin/Debug/net5.0/assignment1.runtimeconfig.dev.json
+/home/rafo/dev/dt071g/assignment1/bin/Debug/net5.0/assignment1.dll
+/home/rafo/dev/dt071g/assignment1/bin/Debug/net5.0/ref/assignment1.dll
+/home/rafo/dev/dt071g/assignment1/bin/Debug/net5.0/assignment1.pdb
+/home/rafo/dev/dt071g/assignment1/obj/Debug/net5.0/assignment1.csproj.AssemblyReference.cache
+/home/rafo/dev/dt071g/assignment1/obj/Debug/net5.0/assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafo/dev/dt071g/assignment1/obj/Debug/net5.0/assignment1.AssemblyInfoInputs.cache
+/home/rafo/dev/dt071g/assignment1/obj/Debug/net5.0/assignment1.AssemblyInfo.cs
+/home/rafo/dev/dt071g/assignment1/obj/Debug/net5.0/assignment1.csproj.CoreCompileInputs.cache
+/home/rafo/dev/dt071g/assignment1/obj/Debug/net5.0/assignment1.dll
+/home/rafo/dev/dt071g/assignment1/obj/Debug/net5.0/ref/assignment1.dll
+/home/rafo/dev/dt071g/assignment1/obj/Debug/net5.0/assignment1.pdb
+/home/rafo/dev/dt071g/assignment1/obj/Debug/net5.0/assignment1.genruntimeconfig.cache
